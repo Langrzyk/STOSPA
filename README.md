@@ -19,7 +19,7 @@ You can see the product's advertising video:
 All the details are also visible on the poster below:
 
 
-![STOSPA poster](/img/Plakat_STOSPA.jpg)
+![STOSPA poster](/img/Plakat.jpg)
 
 ## How it work?
 
