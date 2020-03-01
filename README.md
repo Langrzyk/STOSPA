@@ -8,7 +8,7 @@ The main aim of the project is to make a home appliance based on a selected micr
 
 The STOSPA features:
 - **Temperature control** - Heater operation control to heat up the tank water to the desired target temperature. 
-- **Foot massage** - Operation of the device generating pleasant and air bubbles surrounding the foot. 
+- **Foot massage** - The device generating air bubbles surrounding the foot. 
 - **Automatic operation of the unit's basic functions** - Automatic filling and draining of the unit after use. 
 - **Lighting effects** - Control the color of the LED bar to increase the user experience when using the device
 
