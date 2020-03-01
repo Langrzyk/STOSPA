@@ -1,7 +1,7 @@
 # STOSPA
 Project based on a microcontroller.
 
-STOSPA is a project carried out during studies at the Silesian University of Technology in the field of Microprocessor Systems.
+STOSPA is a project carried out during studies at the **Silesian University of Technology** in the field of **Microprocessor Systems**.
 The project has developed a device. That will function as a foot spa.
 
 ## What'a a STOSPA?
